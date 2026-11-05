@@ -1,0 +1,23 @@
+# Secretos y entorno
+.env
+*.pem
+*.key
+id_ed25519
+id_ed25519.pub
+
+# Respaldos generados por los scripts
+*.bak
+*.orig
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Artefactos
+*.zip
+*.log
